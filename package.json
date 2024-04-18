@@ -1,0 +1,13 @@
+{
+  "name": "lab_3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "time.js",
+  "type": "module",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
